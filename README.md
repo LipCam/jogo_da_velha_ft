@@ -3,10 +3,24 @@
 Este é um simples jogo da velha construído em Flutter. </br>
 É uma aplicação divertida e educativa para aprender Flutter e desenvolvimento de aplicativos móveis.
 
-<img src="assets/images/Imagem01.jpg" alt="Texto alternativo da imagem" width="270" height="430" style="margin-right:10px">
-<img src="assets/images/Imagem02.jpg" alt="Texto alternativo da imagem" width="270" height="430" style="margin-right:10px">
-<img src="assets/images/Imagem03.jpg" alt="Texto alternativo da imagem" width="270" height="430" style="margin-right:10px">
-<img src="assets/images/Imagem04.jpg" alt="Texto alternativo da imagem" width="270" height="430" style="margin-right:10px">
+<table>
+    <tr>
+        <td>
+            <img src="assets/images/Imagem01.jpg" alt="Texto alternativo da imagem" width="270" height="430" style="margin-right:10px">
+        </td>
+        <td>
+            <img src="assets/images/Imagem02.jpg" alt="Texto alternativo da imagem" width="270" height="430" style="margin-right:10px">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="assets/images/Imagem03.jpg" alt="Texto alternativo da imagem" width="270" height="430" style="margin-right:10px">
+        </td>
+        <td>
+            <img src="assets/images/Imagem04.jpg" alt="Texto alternativo da imagem" width="270" height="430" style="margin-right:10px">
+        </td>
+    </tr>
+</table>
 
 
 ## Funcionalidades
